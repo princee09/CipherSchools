@@ -1,6 +1,6 @@
 # Product Purchase Prediction Project
 
-This project was developed as part of the CipherSchools Summer Training Program. It demonstrates the application of machine learning in e-commerce customer behavior analysis.
+This project was developed as part of the CipherSchools Summer Training Program. It demonstrates the application of machine learning in e-commerce customer behavior analysis. The accuracy is low due to the small dataset. 
 
 ## Project Overview
 
